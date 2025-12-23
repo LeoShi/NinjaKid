@@ -6,7 +6,7 @@ import { GoogleGenAI } from "@google/genai";
 import { Sparkles, Music, Activity, AlertCircle } from 'lucide-react';
 
 // --- 配置常量 ---
-const GEMINI_API_KEY = "AIzaSyAIoJvJWa5r0Xzh6Qi5K8-t-tOsqRbODNI"; // 替换为你的 API Key
+const GEMINI_API_KEY = ""; // 替换为你的 API Key
 const GAME_ITEMS = ['🍬', '⭐', '🚀', '💎', '🔥', '🤖'];
 const NEON_COLORS = ['#0ff', '#f0f', '#ff0', '#0f0'];
 
